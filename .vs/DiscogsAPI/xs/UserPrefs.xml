@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{CCFB9408-7A5C-43F6-919D-101EA62DD73D}|Default">
+  <MonoDevelop.Ide.ItemProperties.DiscogsAPI PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiscogsAPI/Controllers/DiscogsCollectionController.cs">
+    <Files>
+      <File FileName="DiscogsAPI/Program.cs" Line="28" Column="114" />
+      <File FileName="DiscogsAPI/Controllers/DiscogsCollectionController.cs" Line="21" Column="1" />
+      <File FileName="DiscogsAPI/DiscogsCollection.cs" />
+      <File FileName="DiscogsAPI/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DiscogsAPI" expanded="True">
+            <Node name="DiscogsAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="DiscogsCollectionController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
